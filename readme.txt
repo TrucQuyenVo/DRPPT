@@ -1,5 +1,5 @@
 Data is generated based on the benchmark instances of VRPD_Instances of Sacramento et al. (2019) 
-Data in AMPL is reformatted based on Data in CPP
+Data in AMPL is reformatted from the original data files.
 
 Data includes: general information (RouteData.txt), information of customers (x.x.x.txt in different sizes and samples), information of PT system (g.xx.txt in different grids)
 
@@ -21,3 +21,5 @@ DEPARTURE TIME
 trip 1	trip2 	...
 
 
+## References
+Sacramento, D. M., Pisinger, D., & Ropke, S. (2019). An adaptive large neighborhood search metaheuristic for the vehicle routing problem with drones. *Transportation Research Part C: Emerging Technologies*, 102, 289–315. https://doi.org/10.1016/j.trc.2019.03.014

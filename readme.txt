@@ -22,4 +22,6 @@ trip 1	trip2 	...
 
 
 ## References
-Sacramento, D. M., Pisinger, D., & Ropke, S. (2019). An adaptive large neighborhood search metaheuristic for the vehicle routing problem with drones. *Transportation Research Part C: Emerging Technologies*, 102, 289–315. https://doi.org/10.1016/j.trc.2019.03.014
+Sacramento, D., Pisinger, D., Ropke, S., 2019. An adaptive large neighborhood search metaheuris-
+tic for the vehicle routing problem with drones. Transportation Research Part C: Emerging
+Technologies 102, 289–315.

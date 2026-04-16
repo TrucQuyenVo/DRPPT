@@ -1,7 +1,7 @@
-Data is generated based on the benchmark instances of VRPD_Instances
-Data in AMPL is reformated based on Data in CPP
+Data is generated based on the benchmark instances of VRPD_Instances of Sacramento et al. (2019) 
+Data in AMPL is reformatted based on Data in CPP
 
-Data includes: general infomation (RouteData.txt), information of customers (x.x.x.txt in different sizes and samples), information of PT system (g.xx.txt in different grids)
+Data includes: general information (RouteData.txt), information of customers (x.x.x.txt in different sizes and samples), information of PT system (g.xx.txt in different grids)
 
 /instances/nbcus.grid.id.txt
 Customers nbCus

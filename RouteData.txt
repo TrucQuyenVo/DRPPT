@@ -1,0 +1,14 @@
+DroneSpeed 50
+SLSpeed 20
+DroneCapacity 5
+ScheduleLineCapacity 2
+ServiceTimeDrone 1
+Endurance 30
+MaxTime 480
+DroneCost 5
+ScheduleLineCost 1
+MilesConverter 1.61
+FuelPrice 1.13
+FuelConsumption 0.07
+DroneFixedCost 10
+StopTime 2
